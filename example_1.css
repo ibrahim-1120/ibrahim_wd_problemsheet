@@ -1,0 +1,105 @@
+.page * {
+    padding: 0px;
+    margin: 0px;
+}
+
+#main {
+    border: 1px solid white;
+    width: auto auto;
+}
+
+#header {
+    font-size: 30px;
+    textalign: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif border 0px solid blue;
+    width: auto;
+    height: 50px;
+    height: background-color darkgray;
+}
+
+#content {
+    border: 1px solid white;
+    width: auto 350px;
+}
+
+#c1 {
+    border: 1px solid white;
+    width: 150px;
+    height:
+        380px;
+    float: left;
+}
+
+#f1 {
+    background-color: aqua;
+    border: 1px solid darkgray;
+    width: 280px;
+    height:
+        17px;
+    float: left;
+}
+
+#r1 {
+    text-align: center;
+    border: 1px solid darkgray height width280px;
+    height: 17px;
+    float: left;
+}
+
+#f3 {
+    border: 1px solid darkgray;
+    width: 280px;
+    height:
+        17px;
+    float: left;
+}
+
+#f2 {
+    background-color: aqua;
+    border: 1px solid darkgray;
+    width: 280px;
+    height:
+        17px;
+    float: left;
+}
+
+#f6 {
+    border: 1px solid darkgray;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+#f5 {
+    background-color: aqua;
+    border: 1px solid darkgray;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+#r8 {
+    text-align: center;
+    border: 1px solid darkgrey;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+#f9 {
+    border: 1px solid darkgrey;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+footer {
+    height: 60px;
+    background-color: rgb(19, 19, 21);
+    color: white;
+    text-align: center;
+}
+
+.hemant {
+    text-align: end;
+}

@@ -1,0 +1,1182 @@
+1)
+<html lang="en">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fontawesome/6.4.0/css/all.min.css"
+        integrity="sha512iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/Z piBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="example_1.css">
+</head>
+
+<body>
+    <div id="main">
+        <div id="header"> ibrahim </div>
+        <div id="content">
+            <div id="c1">
+                <img src="images1.png" width="100" height="100"> <br>
+                <ul>
+                    <li style="background-color: aqua;width: 100px; ">Home</li>
+                    <br>
+                    <ul type="square">
+                        <ul type="square"></ul>
+                        <li>Career</li>
+                        <br>
+                        <li>Contact</li>
+                        <br>
+                        <li>About</li>
+                    </ul><br><br>
+                    <p>"do scmething important in life i convent green grass to code" </p>
+                    <br>
+                    <h6>-mr ibrahim</h6>
+            </div>
+            <div id="c2">
+                <h3>
+                    <b>About Me</b>
+                </h3><br>
+                My self Mr.ibrahim.
+                I am a Developer.
+                I Work in Multi national Company.
+                <br><br>
+                <h3>
+                    WEB DESIGNING
+
+                </h3><br>
+                I work as a web developer for a company that makes website for car businesses.
+                <br>
+                <hr>
+                <pre>
+    </pre>
+            </div>
+            <h3>
+                <b>How Can I help You?</b>
+            </h3><br>
+            <div id="f1">
+                skill 1
+                <br>
+                <div id="r1">
+                    <i class="fa-solid fa-paintbrush"></i>
+                    <br>
+                    <div id="f3">
+                        kakus in your backyard
+                    </div>
+                </div>
+            </div>
+            <div id="f2">
+                skill 2
+                <br>
+                <div id="r1">
+
+                    <i class="fa-sharp fa-solid fa-trash"></i> <br>
+                </div>
+                <div id="f6">
+                    storing some fat for you <br>
+                </div>
+            </div>
+            <div id="f5"> skill 3 <br>
+                <div id="r8"> <i class="fa-solid fa-truck-fast"></i>
+                    <div id="f9">
+                        <br> laking you throught the desert
+                    </div>
+                </div>
+            </div><br><br><br><br>
+            <div class="information"> Email. <input type="email" placeholder="enter the Email">
+                <br> mobile: <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[09]{4}"
+                    placeholder="123-456-7890"><br>
+                <input type="text" placeholder="Enter your message.."><br>
+                <button>Submit</button>
+                <button>reset</button>
+            </div> <br><br>
+            <footer>
+                <p>& copyright ibrahim burhanpurwala</p>
+                <p>enrolement no. 2202020101083</p>
+            </footer>
+
+</body>
+
+</html>
+
+ css file
+
+.page * {
+    padding: 0px;
+    margin: 0px;
+}
+
+#main {
+    border: 1px solid white;
+    width: auto auto;
+}
+
+#header {
+    font-size: 30px;
+    textalign: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif border 0px solid blue;
+    width: auto;
+    height: 50px;
+    height: background-color darkgray;
+}
+
+#content {
+    border: 1px solid white;
+    width: auto 350px;
+}
+
+#c1 {
+    border: 1px solid white;
+    width: 150px;
+    height:
+        380px;
+    float: left;
+}
+
+#f1 {
+    background-color: aqua;
+    border: 1px solid darkgray;
+    width: 280px;
+    height:
+        17px;
+    float: left;
+}
+
+#r1 {
+    text-align: center;
+    border: 1px solid darkgray height width280px;
+    height: 17px;
+    float: left;
+}
+
+#f3 {
+    border: 1px solid darkgray;
+    width: 280px;
+    height:
+        17px;
+    float: left;
+}
+
+#f2 {
+    background-color: aqua;
+    border: 1px solid darkgray;
+    width: 280px;
+    height:
+        17px;
+    float: left;
+}
+
+#f6 {
+    border: 1px solid darkgray;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+#f5 {
+    background-color: aqua;
+    border: 1px solid darkgray;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+#r8 {
+    text-align: center;
+    border: 1px solid darkgrey;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+#f9 {
+    border: 1px solid darkgrey;
+    width: 280px;
+    height: 17px;
+    float: left;
+}
+
+footer {
+    height: 60px;
+    background-color: rgb(19, 19, 21);
+    color: white;
+    text-align: center;
+}
+
+.hemant {
+    text-align: end;
+}
+2)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="example_2.css">
+</head>
+
+<body>
+    <p>
+    <pre style="color:brown;">To</pre>
+    <pre style="text-align: right ; color: brown;">  Date:10/11/2021</pre>
+    <pre style="color: brown;">The Manager, Wipro Technologies. Banglore </pre>
+    </p>
+    <p style="color: chartreuse;">From<br>
+        Ibrahim Burhanpurwala,<br> Employee ID:1254.<br> developer,<br> It Department.<br> </p>
+    <p>
+    <h4 style="margin-left: 150px;color: darkblue;">Subject:Application for Leave</h4>
+    </p>
+    <p style="color: burlywood;"> Dear Sir/Madam, </p>
+    <pre
+        style="color: brown;"> i am writing this letter to inform and to get permission to
+take a 5 days of leave starting from <b style="color: gray;">11/05/2021 to15/05/2021</b> because of some personal. reasons.</pre>
+    <code style="color: brown;">
+i hope you will understand myn situation and grant me level for 5 days.i
+will return to the work immediately after the leavel i.e.<b style="color: gray;"> on 16/05/2021</b>.</code>
+    <code style="color: brown;">in case of any emergency.i will avaliable on my mobile.</code>
+    <code style="color: brown; ">in shall be obuged to you in this matter.</code>
+    <code style="margin-left:100px;color: brown;">Thanking you,</code>
+    <code style="margin-left:450px;color: brown;">sincerely<br>ibrahim
+        .<br>9316296844</code>
+    <footer>
+        <p>& copyright ibrahim burhanpurwala</p>
+        <p>enrolement no. 2202020101083</p>
+    </footer>
+</body>
+
+</html>
+
+css file
+footer {
+    height: 60px;
+    background-color: rgb(19, 19, 21);
+    color: white;
+    textalign: center;
+}
+3)
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>
+		Calculator using HTML Example
+	</title>
+	<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+	<!-- CSS property to create interactive  
+        calculator interface -->
+	<style>
+		body {
+			background-color: tan;
+		}
+
+		.box {
+			background-color: #3d4543;
+			height: 300px;
+			width: 270px;
+			border-radius: 10px;
+			position: relative;
+			top: 80px;
+			left: 40%;
+		}
+
+		.display {
+			background-color: #222;
+			width: 220px;
+			position: relative;
+			left: 15px;
+			top: 20px;
+			height: 40px;
+		}
+
+		.display input {
+			position: relative;
+			left: 2px;
+			top: 2px;
+			height: 35px;
+			color: black;
+			background-color: #bccd95;
+			font-size: 21px;
+			text-align: right;
+		}
+
+		.keys {
+			position: relative;
+			top: 15px;
+		}
+
+		.button {
+			width: 40px;
+			height: 30px;
+			border: none;
+			border-radius: 8px;
+			margin-left: 17px;
+			cursor: pointer;
+			border-top: 2px solid transparent;
+		}
+
+		.button.gray {
+			color: black;
+			color: black;
+			background-color: #6f6f6f;
+			border-bottom: black 2px solid;
+			border-top: 2px #6f6f6f solid;
+		}
+
+		.title:hover {
+			color: #fff;
+		}
+
+		.title {
+			margin-bottom: 10px;
+			margin-top: 30px;
+			padding: 5px 0;
+			font-size: 40px;
+			font-weight: bold;
+			text-align: center;
+			color: black;
+			font-family: 'Cookie', cursive;
+		}
+
+		.button.pink {
+			color: black;
+			background-color: #ff4561;
+			border-bottom: black 2px solid;
+		}
+
+		.button.black {
+			color: black;
+			background-color: 303030;
+			border-bottom: black 2px solid;
+			border-top: 2px 303030 solid;
+			font-weight: bold;
+		}
+
+		.button.orange {
+			color: black;
+			background-color: FF9933;
+			border-bottom: black 2px solid;
+			border-top: 2px FF9933 solid;
+		}
+
+		.gray:active {
+			border-top: black 2px solid;
+			border-bottom: 2px #6f6f6f solid;
+		}
+
+		.pink:active {
+			border-top: black 2px solid;
+			border-bottom: #ff4561 2px solid;
+		}
+
+		.black:active {
+			border-top: black 2px solid;
+			border-bottom: #303030 2px solid;
+		}
+
+		.orange:active {
+			border-top: black 2px solid;
+			border-bottom: FF9933 2px solid;
+		}
+
+		p {
+			line-height: 10px;
+		}
+
+		footer {
+			height: 60px;
+			background-color: rgb(19, 19, 21);
+			color: white;
+			text-align: center;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="title? align=" centre">
+		<pre
+			style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;text-align: center ;">calculator</pre>
+	</div>
+	<div class="box">
+		<div class="display">
+			<input type="text" readonly size="18" id="d">
+		</div>
+		<div class="keys">
+			<p> <input type="button" class="button gray" value="mrc" onclick='c("Created....................")'>
+				<input type="button" class="button gray" value="m-" onclick='c("...............by............")'>
+				<input type="button" class="button gray" value="m+" onclick='c(".....................Anoop")'>
+				<input type="button" class="button pink" value="/" onclick='v("/")'>
+			</p>
+			<p> <input type="button" class="button black" value="7" onclick='v("7")'>
+				<input type="button" class="button black" value="8" onclick='v("8")'>
+				<input type="button" class="button black" value="9" onclick='v("9")'>
+				<input type="button" class="button pink" value="*" onclick='v("*")'>
+			</p>
+			<p> <input type="button" class="button black" value="4" onclick='v("4")'>
+				<input type="button" class="button black" value="5" onclick='v("5")'>
+				<input type="button" class="button black" value="6" onclick='v("6")'>
+				<input type="button" class="button pink" value="-" onclick='v("-")'>
+			</p>
+			<p> <input type="button" class="button black" value="1" onclick='v("1")'>
+				<input type="button" class="button black" value="2" onclick='v("2")'>
+				<input type="button" class="button black" value="3" onclick='v("3")'>
+				<input type="button" class="button pink" value="+" onclick='v("+")'>
+			</p>
+			<p> <input type="button" class="button black" value="0" onclick='v("0")'>
+				<input type="button" class="button black" value="." onclick='v(".")'>
+				<input type="button" class="button black" value="C" onclick='c("")'>
+				<input type="button" class="button orange" value="=" onclick='e()'>
+			</p>
+		</div>
+	</div>
+	<footer>
+		<p>& copyright ibrahim burhanpurwala</p>
+		<p>enrolement no. 2202020101083</p>
+	</footer>
+</body>
+<script>
+	function c(val) {
+		document.getElementById("d").value = val;
+	}
+	function v(val) {
+		document.getElementById("d").value += val;
+	}
+	function e() {
+		try {
+			c(eval(document.getElementById("d").value))
+		}
+		catch (e) {
+			c('Error')
+		}
+	}  
+</script>
+
+</html>
+4)
+<!DOCTYPE html>
+<html>
+
+<body>
+    <style>
+        table,
+        td,
+        th,
+        tr {
+            border-color: brown;
+            text-align: center;
+            padding: 0px;
+        }
+
+        table {
+            border: 5px solid palevioletred;
+            border-left: 6px solid royalblue;
+            border-right: 6px solid royalblue;
+            background-color: lightcyan;
+            border-radius: 15px;
+            borderstyle: solid 10px;
+            border-width: 5px
+        }
+    </style>
+    <h1>
+        TIME TABLE
+    </h1>
+    <table border="1" aria-label="center" cellspacing="5">
+        <!--<caption>Timetable</caption>-->
+        <tr>
+            <td align="center" height="50" width="100"><br>
+                <b>Day/Period</b></br>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>I<br>9:30-10:20</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>II<br>10:20-11:10</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>III<br>11:10-12:00</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>12:00-12:40</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>IV<br>12:40-1:30</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>V<br>1:30-2:20</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>VI<br>2:20-3:10</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>VII<br>3:10-4:00</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Monday</b>
+            </td>
+            <td align="center" height="50">Eng</td>
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">Che</td>
+            <td rowspan="6" align="center" height="50">
+                <h2>LUNCH</h2>
+            </td>
+            <td colspan="3" align="center" height="50">LAB</td>
+            <td align="center" height="50">Phy</td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+
+                <b>Tuesday</b>
+            </td>
+            <td colspan="3" align="center" height="50">LAB
+            </td>
+            <td align="center" height="50">Eng</td>
+            <td align="center" height="50">Che</td>
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">SPORTS</td>
+        <tr>
+            <td align="center" height="50">
+                <b>Wednesday</b>
+            </td>
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">phy</td>
+            <td align="center" height="50">Eng</td>
+            <td align="center" height="50">Che</td>
+            <td colspan="3" align="center" height="50">LIBRARY
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Thursday</b>
+            </td>
+            <td align="center" height="50">Phy</td>
+            <td align="center" height="50">Eng</td>
+            <td align="center" height="50">Che</td>
+            <td colspan="3" align="center" height="50">LAB
+
+        </tr>
+        </td>
+        <td align="center" height="50">Mat</td>
+        </tr>
+        <tr>
+            <td align="center" height="50"> <b>Friday</b>
+            </td>
+            <td align="center" height="50">phy</td>
+            <td align="center" height="50">Eng</td>
+            <td align="center" height="50">Mat</td>
+            <td colspan="3" align="center" height="50">LAB
+            </td>
+        </tr>
+        <footer>
+            <div>
+                <h3>Name:- Ibrahim burhanpurwala</h3>
+            </div>
+            <div>Enroll No:-2202020101083</div>
+        </footer>
+    </table>
+</body>
+
+</html>
+5)
+<!DOCTYPE html>
+<html>
+
+<body>
+    <style>
+        table,
+        td,
+        th,
+        tr {
+            border-color: brown;
+            text-align: center;
+            padding: 0px;
+        }
+
+        table {
+            border: 5px solid palevioletred;
+            border-left: 6px solid royalblue;
+            border-right: 6px solid royalblue;
+            background-color: lightcyan;
+            border-radius: 15px;
+            border-style: solid 10px;
+            border-width: 5px
+        }
+
+        table {
+            background-color: beige;
+            box-shadow: 5px 5px 5px blue;
+            border: 1px solid green;
+            background-origin: 10px 10px 10px 10px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        input,
+        select {
+            height: 30px;
+            radius: 10px 10px;
+            color: palevioletred;
+        }
+
+        border- input:hover,
+        select:hover {
+            height: 30px;
+            radius: 10px 10px;
+            color: burlywood;
+        }
+
+        #gender {
+            height: 30px;
+            width: 30px;
+            border-color: blanchedalmond;
+            color: blueviolet;
+        }
+
+        footer {
+            height: 60px;
+            background-color: rgb(19, 19, 21);
+            color: white;
+            text-align: center;
+        }
+    </style>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+
+    <body <h1 style="text-align: center;">application form</h1>
+        <from name="ff" method="post">
+            <h1>personal</h1>
+            <table border="0" width="500" height="200">
+                <tr>
+                    <th>
+                        application full name </th>
+                    <td>
+
+                        <input type="text" name="fname" placeholder="enter name" value="">
+                    </td>
+                <tr>
+                    <th> father's name </th>
+                    <td>
+                        <input type="text" name="father name" placeholder="enter father name" value="">
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        motherr's name </td>
+                    <td>
+
+                        <input type="text" name="mother name" placeholder="enter mother name" value="">
+                    </td>
+                </tr>
+                <th> birth
+                    date of </th>
+                <td>
+                    <input type="date" name="birthday">
+                </td>
+                <tr> `
+                    <th> gender </th>
+
+                    <td>
+                        <input type="radio" name="gender" value="male">male
+                        <input type="radio" name="gender" value="female">female
+                        <input type="radio" name="gender" value="other">other
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        marital status
+                    </th>
+                    <td>
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr> `
+                    <th>
+                        handicapped
+                    </th>
+                    <td>
+                        <input type="radio" name="handicapped" value="yes">yes
+                        <input type="radio" name="handicapped" value="no">no
+
+                    </td>
+                </tr>
+                <th>
+                    care of
+                </th>
+                <td>
+                    <input type="radio" name="care off" value="parents">parent
+                    <input type="radio" name="care off" value="gardin">gardin
+                </td>
+                <tr>
+                    <th>
+                        categary
+                    </th>
+                    <td>
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+                        </select>
+                    </td>
+                </tr>`
+
+
+                <tr>
+                    <th>
+                        `
+                        Ex-servicemam
+                    </th>
+                    <td>
+                        <input type="radio" name="ex" value="yes">yes
+                        <input type="radio" name="ex" value="no">no
+                    </td>
+                <tr>
+                    <th>
+                        religion
+                    <td>
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+                        </select>
+                    </td>
+                </tr>`
+                `
+                </th>
+            </table>
+
+        </from>
+
+        <from name="ff" method="post">
+            <legend>
+                contact details
+            </legend>
+            <table border="30" width="500" height="200">
+                <tr>
+                    <th>
+                        mobile number
+                    </th>
+                    <td>
+                        <input type="number" name="no" placeholder="enter number" value="">
+                    </td>
+                </tr>
+                <th>
+                    email
+                </th>
+                <td>
+                    <input type="text" name="em" placeholder="enter email" value="">
+
+                    <tr>
+                        <th>
+                            address line 1
+                        </th>
+                        <td>
+                            <input type="number" name="add" placeholder="enter address" value="">
+                        </td>
+                    </tr>
+                <th>
+                    address line 2
+                </th>
+                <td>
+                    <input type="number" name="add" placeholder="enter address" value="">
+                    </tr>
+                </td>
+                <tr>
+                    <th>
+                        city
+                    </th>
+                    <td>
+                        <input type="text" name="city" placeholder="enter city" value="">
+                    </td>
+                </tr>
+
+
+
+                <tr>
+                    <th>
+                        pin code
+                    </th>
+                    <td>
+                        <input type="number" name="pin" placeholder="enter pin code" value="">
+                    </td>
+                </tr>
+            </table>
+        </from>
+
+        <from name="ff" method="post">
+            <legend>
+                qualification details
+            </legend>
+            <table border="0" width="500" height="200">
+                <tr>
+                    <th>
+                        sr.no
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        1
+                    </th>
+                    <td>
+
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+                        </select>
+                <tr>
+                    <th>
+                        2
+                    </th>
+                    <td>
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+                        </select>
+                <tr>
+                    <th>
+                        3
+                    </th>
+                    <td>
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+                        </select>
+                <tr>
+                    <th>
+                        4
+                    </th>
+                    <td>
+                        <select>
+                            <option value="">----select---</option>
+                            <option value="one">one</option>
+
+                        </select>
+                        </th>
+                </tr>
+            </table>
+        </from>
+        <from name="ff" method="post">
+            <H1>
+                language
+            </H1>
+            <table border="0" width="500" height="200">
+                <tr>
+                    <th>
+                        language
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        hindi
+                    </th>
+                    <td>
+                        <input type="checkbox" name="urdu" value="reading">reading
+                        <input type="checkbox" name="urdu" value="writing">writin
+                        <input type="checkbox" name="urdu" value="spoken">spoken
+                    </td>
+                </tr>
+                <tr>
+
+                    <th>
+                        english
+                    </th>
+                    <td>
+                        <input type="checkbox" name="urdu" value="reading">reading
+                        <input type="checkbox" name="urdu" value="writing">writing
+                        <input type="checkbox" name="urdu" value="spoken">spoken
+                </tr>
+                </td>
+                <tr>
+                    <th> urdu
+                    </th>
+                    <td>
+                        <input type="checkbox" name="urdu" value="reading">reading
+                        <input type="checkbox" name="urdu" value="writing">writing
+                        <input type="checkbox" name="urdu" value="spoken">spoken
+                    </td>
+                <tr>
+            </table>
+        </from>
+        <from name="ff" method="post">
+            <h1>
+                identification details
+            </h1>
+
+            <table border="0" width="500" height="100">
+                <tr>
+                    <th> aadhar card
+                        number
+                    </th>
+                    <td>
+                        <input type="number" name="no" placeholder="enter number" value="">
+                    </td>
+                </tr>
+                <tr> `
+                    <th>
+                        upload photo
+                    </th>
+                    <td>
+                        <input type="number" name="no" placeholder="choose file" value="">
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        `
+                        pan card number
+                    </th>
+                    <td>
+                        <input type="number" name="no" placeholder="enter number" value="">
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+
+                        uplode singture </th>
+                    <td>
+                        <input type="number" name="no" placeholder="uplode singture" value="">
+                    </td>
+                </tr>
+            </table>
+            <input type="submit" name="sub" value="submit"> <input type="reset" name="res" value="clear">
+        </from>
+        </table>
+
+        <footer>
+            <p>& copyright ibrahim burhanpurwala</p>
+            <p>enrolement no. 2202020101083</p>
+        </footer>
+    </body>
+
+    </html>
+6)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background-color: pink;
+    }
+
+    h1,
+    h3 {
+        color: red;
+    }
+
+    p,
+    ol {
+        color: green;
+    }
+
+    .header {
+        margin-right: 50px;
+        margin-left: 40px;
+        text-align: right;
+    }
+
+    hr {
+        height: 5px;
+        background-color: red;
+    }
+
+    .head {
+        align: center;
+    }
+</style>
+
+<body>
+    <div calss="header">
+        <h1>bhagavan mahavir college of computer application</h1>
+        <h3 class="head">detalis about bca...</h3>
+
+        <p class="head">bca is a course of computer application.<br><br>
+            bca is a professional course.<br><br>
+            if you choose bca than it's
+            right choice for ypou carrer.
+        </p>
+    </div>
+    <hr>
+    <div>
+        <h3>rules of bhagavan mahavir college...</h3>
+        <ol type="1">
+            <li>be regular in the college.</li>
+            <li>behave your self.</li>
+            <li>here no is compulsory.</li>
+        </ol>
+    </div>
+</body>
+
+</html>
+Contactus page
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    input,
+    select,
+    textarea {
+        background-color: lightblue;
+        border-color: brown;
+        color:
+            black;
+    }
+
+    body {
+        background-color: lightblue;
+    }
+
+    tr,
+    td {
+        padding: 20px;
+        color: lightblue;
+        color: black;
+    }
+</style>
+
+<body>
+    <table border="1" width="500" height="500">
+        <tr>
+            <td><input type="text" placeholder="first name"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="last name"></td>
+        </tr>
+        <tr>
+            <td><input type="email" placeholder="email"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Subject"></td>
+        </tr>
+        <tr>
+            <td><input type="message" placeholder="your message"></textarea></td>
+        </tr>
+        MESH RAJ SINGH
+        4
+        5
+        background-MESH RAJ SINGH
+        WEB DESIGNING
+        <tr>
+            <td><input type="submit" placeholder="submit"></td>
+        </tr>
+    </table>
+</body>
+
+</html>
+Copyright page
+
+<body an="center" style="color:red;background-color:skyblue;">
+    <p>
+        @copyright 2023 demo website
+    </p>
+    <p style="padding-left: 450px">
+        Name:-Hemant Rajput</p>
+    <p style="padding-left: 450px">Enroll NO:-2202020101693</p>
+</body>
+Header page
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    img {
+        float: right;
+        border: 1px dotted black;
+        margin: 0px 0px 15px 20px;
+    }
+
+    div {
+        position: fixed;
+        bottom: 15px;
+        right: 50px;
+    }
+
+    .zoom:hover {
+        transform: scale(1.5);
+    }
+</style>
+
+<body scroll="no" style="overflow: hidden;background-color:skyblue;">
+    <p style align="right" style="color:red; font-size:40pt;margin: right 40%;">
+        <img src="logo.png" class="zoom" style="float: left;width: 80px;height:
+80px;"><br>
+    <h2>
+        <center>demo website</center>
+    </h2></b>
+    <small style="font-size: 15pt;color: white;">
+        <center>knowledge is life.</center>
+    </small></p>
+    <div>
+        <a href="login.html" target="_top">logout</a>
+        MESH RAJ SINGH
+        4
+        7MESH RAJ SINGH
+        WEB DESIGNING
+    </div>
+</body>
+
+</html>
+Demo page
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <base target="main">
+    <a href="about.html"><img src="dem.png"></a><br><br><br>
+</body>
+
+</html>
+Login page
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>login</title>
+    <link rel="stylesheet" href="style1.css">
+    MESH RAJ SINGH
+    4
+    8MESH RAJ SINGH WEB DESIGNING
+</head>
+
+<body> <img alt="logo" src="logo.jpg" class="center">
+    <from name="login" onsubmit="return vaildateForm()"> username<br> <input type="password" name="pass"><br><br>
+        <input type="submit" value="login">
+    </from>
+</body>
+<script> function validateForm() {
+        let x = document.forms["login"]["user"].value;
+        let y = document.forms["login"]["pass"].value; if (x == "BMU" & y == "BMU"); return false
+    }
+    {
+        alert("enter detalis");
+    } </script>
+
+</html>
